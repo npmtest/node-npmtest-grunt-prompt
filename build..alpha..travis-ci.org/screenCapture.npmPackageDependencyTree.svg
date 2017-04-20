@@ -1,0 +1,37 @@
+<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="542" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ grunt-prompt@1.3.3 </tspan>
+<tspan x="10" y="90">  ├─┬ inquirer@0.11.4 </tspan>
+<tspan x="10" y="106">  │ ├── ansi-escapes@1.4.0 </tspan>
+<tspan x="10" y="122">  │ ├── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="138">  │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="154">  │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="170">  │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="186">  │ │ ├── has-ansi@2.0.0 </tspan>
+<tspan x="10" y="202">  │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="218">  │ ├─┬ cli-cursor@1.0.2 </tspan>
+<tspan x="10" y="234">  │ │ └─┬ restore-cursor@1.0.1 </tspan>
+<tspan x="10" y="250">  │ │   ├── exit-hook@1.1.1 </tspan>
+<tspan x="10" y="266">  │ │   └── onetime@1.1.0 </tspan>
+<tspan x="10" y="282">  │ ├── cli-width@1.1.1 </tspan>
+<tspan x="10" y="298">  │ ├─┬ figures@1.7.0 </tspan>
+<tspan x="10" y="314">  │ │ └── object-assign@4.1.1 </tspan>
+<tspan x="10" y="330">  │ ├─┬ readline2@1.0.1 </tspan>
+<tspan x="10" y="346">  │ │ ├── code-point-at@1.1.0 </tspan>
+<tspan x="10" y="362">  │ │ ├─┬ is-fullwidth-code-point@1.0.0 </tspan>
+<tspan x="10" y="378">  │ │ │ └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="394">  │ │ └── mute-stream@0.0.5 </tspan>
+<tspan x="10" y="410">  │ ├─┬ run-async@0.1.0 </tspan>
+<tspan x="10" y="426">  │ │ └─┬ once@1.4.0 </tspan>
+<tspan x="10" y="442">  │ │   └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="458">  │ ├── rx-lite@3.1.2 </tspan>
+<tspan x="10" y="474">  │ ├── string-width@1.0.2 </tspan>
+<tspan x="10" y="490">  │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="506">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="522">  └── lodash@3.10.1</tspan>
+</text>
+</svg>
