@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-prompt/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-prompt/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-prompt/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-prompt/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-prompt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-prompt/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-prompt/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-prompt/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-prompt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-prompt/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-prompt/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-prompt/build/coverage.html/index.html)
 
@@ -93,7 +93,8 @@
     "scripts": {
         "test": "grunt mochacli --stack"
     },
-    "version": "1.3.3"
+    "version": "1.3.3",
+    "bin": {}
 }
 ```
 
